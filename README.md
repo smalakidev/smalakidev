@@ -40,6 +40,6 @@
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/santosh-malaki-541a105b/"<img alt>="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Santosh Malaki-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/santosh-malaki-541a105b/"><img alt>="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Santosh Malaki-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:santoshmalakai@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-santoshmalaki@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
