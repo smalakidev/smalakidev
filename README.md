@@ -6,7 +6,7 @@
 - 🤔 &nbsp; Currently working on becoming a Full-stack Web Developer thorough the JHU Coding Bootcamp.
 - 🎓 &nbsp; Earned a BA in Modern Languages and Linguistics from the University Of Maryland Baltimore County(UMBC).
 - 💼 &nbsp; Working on Bootcamp Projects and Assignments to improve my portfolio.
-- ✍️ &nbsp; Yoga, Meditation, & Learning new languages are my hobbies.
+- ✍️ &nbsp; Yoga, Meditation, & Coding are my hobbies.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
